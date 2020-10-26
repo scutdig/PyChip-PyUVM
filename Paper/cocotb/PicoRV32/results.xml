@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name="results">
+  <testsuite name="all" package="all" tests="0">
+    <property name="random_seed" value="1601808890" />
+    <testcase classname="test" name="picorv32_test" ratio_time="16436.698732772416" sim_time_ns="200003.0" time="12.168076038360596" />
+  </testsuite>
+</testsuites>

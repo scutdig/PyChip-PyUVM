@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name="results">
+  <testsuite name="all" package="all" tests="0">
+    <property name="random_seed" value="1603547969" />
+    <testcase classname="test" name="rv32i_test" ratio_time="13495.83984981963" sim_time_ns="100003.0" time="7.409913063049316" />
+  </testsuite>
+</testsuites>
