@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<testsuites name="results">
-  <testsuite name="all" package="all" tests="0">
-    <property name="random_seed" value="1603548091" />
-    <testcase classname="test" name="lenet5_test" ratio_time="7297.354755758434" sim_time_ns="100003.0" time="13.704006910324097" />
-  </testsuite>
-</testsuites>

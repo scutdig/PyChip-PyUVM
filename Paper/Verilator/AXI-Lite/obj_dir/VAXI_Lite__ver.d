@@ -1,1 +1,0 @@
-obj_dir/VAXI_Lite.cpp obj_dir/VAXI_Lite.h obj_dir/VAXI_Lite.mk obj_dir/VAXI_Lite__Syms.cpp obj_dir/VAXI_Lite__Syms.h obj_dir/VAXI_Lite__Trace.cpp obj_dir/VAXI_Lite__Trace__Slow.cpp obj_dir/VAXI_Lite__ver.d obj_dir/VAXI_Lite_classes.mk  : /usr/local/Cellar/verilator/4.020/bin/verilator_bin /usr/local/Cellar/verilator/4.020/bin/verilator_bin AXI_Lite.v 
